@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
           content="width=device-width, initial-scale=1, maximum-scale=5"
         />
 
-        {/* favicon */}
+
         <link rel="shortcut icon" href={config.site.favicon} />
         {/* theme meta */}
         <meta name="theme-name" content="andromeda-light-nextjs" />
